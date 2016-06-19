@@ -2,9 +2,9 @@
   "name": "hellword",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "test.js",
   "scripts": {
-    "test": "ava"
+    "test": "ava test.js -v"
   },
   "repository": {
     "type": "git",
